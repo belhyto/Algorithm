@@ -1,0 +1,13 @@
+Step 1: Start
+Step 2: Accept a range of numbers between m and n.
+Step 3: Verify whether m is greater than n.
+Step 4: Create method isPrime() to count the number of factors. If the number of factors exceeds 2 it returns true.
+Step 5: Create a method isSquare() to accept a number and return square of the number.
+Step 6: Create a method rev() to accept a number and return its reverse.
+Step 7: Create a for loop to check all numbers within the given range if it is a prime number.
+Step 8: check if the reverse of the square of the number equals to the square of the reverse of the number.
+Step 9: If true, the value of count increases by 1.
+Step 10: Verify whether count equal to 0 if true there are no prime numbers between the given range.
+Step 11: Else return a frequency of the prime Adam numbers.
+Step 12:Stop
+
