@@ -1,0 +1,9 @@
+Step 1.	Start.
+Step 2.	Accept sentence from the user.
+Step 3.	If if the sentence does not end with a '.','!','?' Return invalid input and stop.
+Step 4.	Using split() convert the sentence into array of words.
+Step 5.	Sort words using bubble sort technique.
+Step 6.	Verify whether the lengths of two words are equal.
+Step 7. If step 6 is true then compare the value of both words using compared to and sort accordingly.
+Step 8.	Print the words to give the final sorted array.
+Step 9.	End.
