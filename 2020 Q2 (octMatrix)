@@ -1,0 +1,9 @@
+Step 1.	Start.
+Step 2.	Accept a range of numbers between m and n.
+Step 3.	Verify whether the number enter for m is less than 1 and greater than 9 and n is less than 3 or greater than 5.
+Step 4.	Initialize Matrix mat[] and accept the elements for the row.
+Step 5.	Verify whether the number is greater than 7. If true display invalid input and stop.
+Step 6.	Create a method to display the matrix.
+Step 7.	Calculate the decimal equivalent of the numbers in the row.
+Step 8.	Display the decimal equivalent alongside the Matrix.
+Step 9.	Stop.
