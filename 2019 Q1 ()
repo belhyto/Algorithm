@@ -1,0 +1,11 @@
+Step 1.	Start.
+Step 2.	Accept a day number between 1 and 366, year in 4 digits, date after 'n' days and verify whether the number is out of range if so stop.
+Step 3.	Initialize an Array int mdays to store the number of days in every month in the year.
+Step 4.	Initialize an array string month to store the names every month.
+Step 5.	Create a method checkLeap() to verify whether the you are given is a leap year.
+Step 6.	If step 5 true then change the value of the element at the second position of mdays to 29.
+Step 7.	Subtract the number of days in the month from the number given by the user to find the corresponding month and the number of days in that month.
+Step 8.	Repeat step 7 to find the number of days in the month and the month for the future date.
+Step 9.	Return  the proper suffix for the date by checking the last digit of the number.
+Step 10. Finally print the date along with the date after n days.
+Step 11. Stop.
