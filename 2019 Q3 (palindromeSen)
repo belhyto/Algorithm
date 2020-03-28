@@ -1,0 +1,12 @@
+Step 1: Start.
+Step 2: Accept String sen.
+Step 3: Convert it to uppercase
+Step 4: If last character of sen is not '.' and not '?'and not'!' print invalid input and stop.
+Step 5: Using split() method convert the sentence into an array.
+Step 6: Find reverse of a word.
+Step 7: If the word is palindrome skip step 8-10.
+Step 8: Using a while loop check if the last letters are repeated
+Step 9: If step 8 is true remove the repeated letters.
+Step 10: Concatenate the word with the reversed word.
+Step 11: Print the new sentence.
+Step 12: Stop.
