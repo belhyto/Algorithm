@@ -1,0 +1,10 @@
+Step 1: Start
+Step 2: Accept a number.
+Step 3: Check if the number is even.
+Step 4: If step 4 is true then stop.
+Step 5: In a while loop initialise 2 numbers a and b where a is smaller than n and b = n-a
+Step 6: Using an if loop check if a and b are prime and a <= b.
+Step 7: Increase the value of a by 2.
+Step 8: Reapeat step 5 till all pairs are printed.
+Step 9: Stop.
+
