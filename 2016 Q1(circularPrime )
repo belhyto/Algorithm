@@ -1,0 +1,10 @@
+Step 1: Start.
+Step 2: Accept an int num.
+Step 3: Check if the number is prime by counting the number of factors.
+Step 4: If step 3 is true to circulate the number by converting the number to string and reversing the position of the characters.
+Step 5: Print the new number formed after shifting the digits.
+Step 6: Using a do while loop repeat step 3-5 until all the numbers are printed.
+Step 7: If any of the circulated numbers are prime the print number is not a circular prime and stop.
+Step 8: If Step 7 is false, the number is a circular prime.
+Step 9: Stop.
+
