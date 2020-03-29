@@ -1,7 +1,7 @@
 Step 1.	Start
 Step 2.	Accept value of n.
-Step 3.	Check whether and is n is lesser than 3 or n is greater than 9.
-Step 4.	If step 3 is true then display message metric size out of range and stop.
+Step 3.	Check whether and n is lesser than 3 or n is greater than 9.
+Step 4.	If step 3 is true then display message matrix size out of range and stop.
 Step 5.	Accept and elements of the array a.
 Step 6.	Short elements of Array using bubble sorting technique.
 Step 7.	Print the sorted array.
