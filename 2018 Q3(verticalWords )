@@ -1,0 +1,5 @@
+Step 1: Start.
+Step 2: Accept team names in an array.
+Step 3: Find the length of the strings and store in an int array len.
+Step 4: Using a for loop, if i is smaller than len print it character at i.
+Step 5: Stop.
