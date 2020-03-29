@@ -1,0 +1,10 @@
+Step 1: Start
+Step 2: Accept a string sen.
+Step 3: Convert the string to uppercase.
+Step 4: Create a method isvowel() to accept a string and check whether the character at first and last position is a vowel.
+Step 5: If the step 4 is true, concatenate it to a string Vword.
+Step 6: Initialise an int counter to  count the number words beginning and ending with vowels.
+Step 7: If the step 4 is false concatenate word to a string Cword.
+Step 8: Print the final value of the counter.
+Step 9: Print Vword and Cword.
+Step 10: Stop.
