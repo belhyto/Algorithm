@@ -1,0 +1,11 @@
+Step 1: Start.
+Step 2: Initialise an array box[] with the capacity of each carton.
+Step 3: Accept a number n and make a copy nn.
+Step 4: Verify whether the number is out of range
+Step 5: If step 4 is true stop.
+Step 6: Using a for loop divide n by element at i.
+Step 7: If step 6 equals to 0  print the results required and stop, or else go to step 8
+Step 8: Find remainder when n is divided with the element at i.
+Step 9: Add the value of n divided by element at i.
+Step 10: Repeat steps 6-9.
+Step 11: Stop.
