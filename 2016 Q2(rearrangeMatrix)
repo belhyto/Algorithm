@@ -1,0 +1,13 @@
+Step 1: Start.
+Step 2: Accept number  m for the order of the matrix.
+Step 3: If m is lesser than 3 or greater than 9, stop.
+Step 4: Accept elements of the matrix from the user.
+Step 5: Display the original matrix.
+Step 6: Using two for loops check if i does not equal to 0 and i does not equal to m-1 and j is not equal to 0 and j  is not equal to m-1.
+Step 7: If step 6 is true store the non boundary element in an array arr[].
+Step 8: Sort the elements of arr[] using bubble sorting technique.
+Step 9: Rearrange the elements of a matrix accordingly and replace all non boundary elements with the sorted elements.
+Step 10: Print the sorted matrix.
+Step 11: From the sorted matrix print only the numbers in the diagonals.
+Step 12: Find the sum of the diagonal elements and print the sum.
+Step 13: Stop.
