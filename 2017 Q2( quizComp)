@@ -1,0 +1,11 @@
+Step 1: Start.
+Step 2: Accept number n.
+Step 3: Initialise an array ans[] and accept answers of every participant.
+Step 4: Initialise an array key[] to accept the answer key.
+Step 5: Initialise array score[] to store the score of every participant.
+Step 6: Using a for loop check whether ans[] element at i equals to key[] element at i.
+Step 7: If step 6 is true, increment the score.
+Step 8: Compare the value of score to find the max score.
+Step 9: Print the participant with the highest score.
+Step 10: Stop.
+
