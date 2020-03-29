@@ -1,0 +1,13 @@
+Step 1: Start.
+Step 2:  Accept string sen.
+Step 3: Extract words into an array using split().
+Step 4: Using a for loop check the character at i if it is ‘.’ or ‘!’ or ‘,’ or ‘?’.
+Step 5: If step 4 is true concatenate the char to the new word.
+Step 6: Find the ascii  value of the character after the key is added.
+Step 7: Verify if the word is in uppercase.
+Step 8: If step 7 is true,go to step 9. Otherwise when the char is in lowercase skip to step 10.
+Step 9:  If the ASCII value is greater than 90 subtract the value with 26 and go to step 11.
+Step 10: If the value is greater than 122 subtract the value with 26.
+Step 11: Concatenate the character with the new word.
+Step 12: Return the new word to form a sentence.
+Step 13: Stop.
