@@ -1,0 +1,9 @@
+Step 1: Start.
+Step 2: Accept a range of numbers between m and n.
+Step 3: Verify if m <1 or m>10 or n<1 or n>10 
+Step 4: If step 3 is true stop.
+Step 5: Accept elements of matrix mat[][].
+Step 6: Display original matrix.
+Step 7: Short every row of the matrix using bubble sort technique.
+Step 8: Print the sorted matrix.
+Step 9: Stop.
