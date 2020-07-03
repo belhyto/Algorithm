@@ -1,0 +1,20 @@
+
+1.	Start
+2.	Accept a string message from user
+3.	Initialize two arrays- letter[] to store letters of the alphabet{ “a ”,”b”,”c”,”d” ….} , num[] to store value of every letter.{2,22,222,3,33,333…} 
+4.	Create method getKeys() to find the combination of keys in str key.
+
+            for(int i=0; i<message.length(); i++)
+         {
+            for(int j=0; j<letter.length; j++) 
+         if(message.charAt(i)==letter[j]){
+             
+         key+=num[j];
+         
+5.	In the method frequency() convert key into char array.
+6.	Use two for-loops to count no. of times a key is repeated store frequency in array freq[]
+7.	Once a char is counted replace it with a space to avoid being counted again.
+8.	Print the key combination and frequency in display() method.
+9.	End 
+
+
